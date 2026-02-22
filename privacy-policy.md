@@ -1,42 +1,54 @@
 # Privacy Policy
 
-**Last updated: February 1, 2025**
+**Last updated: February 22, 2026**
 
 DocTock ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
 
 ## Information We Collect
 
 ### Account Information
+
 - Email address (required for account creation)
 - Name (optional)
 - Password (encrypted, never stored in plain text)
 
 ### Document Information
+
 - Document names/titles (chosen by you)
 - Document types (e.g., passport, visa, insurance)
 - Expiry dates
 - Optional notes
+- Categories (user-created labels for organising documents)
+
+### Location Information
+
+- If you enable automatic Schengen zone tracking, we use your device's location to detect when you enter or leave the Schengen area. Location data is processed on-device to determine country borders only. We do not store your GPS coordinates, location history, or travel routes on our servers.
 
 ### Technical Information
+
 - Push notification tokens (to send reminders)
 - Device type and operating system
-- App usage analytics (anonymized)
+- App usage analytics (anonymised)
 
 ## Information We Do NOT Collect
 
 We intentionally do not collect or store:
+
 - Passport numbers or document ID numbers
 - Photos or scans of documents
 - Personal identification numbers
 - Birth dates or addresses
 - Biometric data
-- Location data
+- GPS coordinates or location history (location is processed on-device only)
 
 ## How We Use Your Information
 
 We use your information solely to:
+
 - Provide the document tracking service
 - Send expiry reminder notifications
+- Detect Schengen zone entry/exit (if enabled by you, processed on-device)
+- Send password reset emails when requested
 - Maintain and improve the app
 - Process subscription payments (via Apple)
 
@@ -50,9 +62,11 @@ We use your information solely to:
 ## Third-Party Services
 
 We use the following third-party services:
+
 - **Apple App Store**: For app distribution and subscription management
 - **Cloudflare**: For secure data storage and API hosting
 - **Apple Push Notification Service**: For sending reminders
+- **Resend**: For sending transactional emails (password reset)
 
 ## Data Retention
 
@@ -63,6 +77,7 @@ We use the following third-party services:
 ## Your Rights
 
 You have the right to:
+
 - Access your personal data
 - Correct inaccurate data
 - Delete your account and all associated data
